@@ -1,4 +1,5 @@
-<img width="312" height="312" alt="image" src="https://github.com/user-attachments/assets/60025fae-a660-4713-8ee4-60d94db5599a" />
+
+<img width="1983" height="700" alt="image" src="https://github.com/user-attachments/assets/fec30521-9fb0-401f-a905-9d2231e7a54d" />
 
 
 # CodexNeuron
