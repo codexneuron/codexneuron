@@ -1,5 +1,7 @@
-# CodexNeuron
+<img width="312" height="312" alt="image" src="https://github.com/user-attachments/assets/60025fae-a660-4713-8ee4-60d94db5599a" />
 
+
+# CodexNeuron
 ### AI • Software Development • Open Source
 
 Building intelligent software, AI-powered products, desktop applications, and open-source technologies.
